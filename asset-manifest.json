@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://latelier22.github.io/csb-ky8952/static/css/main.684a74ac.chunk.css",
+    "main.js": "https://latelier22.github.io/csb-ky8952/static/js/main.747b5671.chunk.js",
+    "main.js.map": "https://latelier22.github.io/csb-ky8952/static/js/main.747b5671.chunk.js.map",
+    "runtime-main.js": "https://latelier22.github.io/csb-ky8952/static/js/runtime-main.433899d2.js",
+    "runtime-main.js.map": "https://latelier22.github.io/csb-ky8952/static/js/runtime-main.433899d2.js.map",
+    "static/js/2.8dc88bf9.chunk.js": "https://latelier22.github.io/csb-ky8952/static/js/2.8dc88bf9.chunk.js",
+    "static/js/2.8dc88bf9.chunk.js.map": "https://latelier22.github.io/csb-ky8952/static/js/2.8dc88bf9.chunk.js.map",
+    "index.html": "https://latelier22.github.io/csb-ky8952/index.html",
+    "static/css/main.684a74ac.chunk.css.map": "https://latelier22.github.io/csb-ky8952/static/css/main.684a74ac.chunk.css.map",
+    "static/js/2.8dc88bf9.chunk.js.LICENSE.txt": "https://latelier22.github.io/csb-ky8952/static/js/2.8dc88bf9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.433899d2.js",
+    "static/js/2.8dc88bf9.chunk.js",
+    "static/css/main.684a74ac.chunk.css",
+    "static/js/main.747b5671.chunk.js"
+  ]
+}
